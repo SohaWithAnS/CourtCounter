@@ -55,6 +55,10 @@
                 android:layout_marginTop="8dp"
                 android:fontFamily="sans-serif-smallcaps"
                 android:text="0"
+                android:shadowColor="@color/text_shadow"
+                android:shadowDx="1"
+                android:shadowDy="1"
+                android:shadowRadius="10"
                 android:textColor="#ffffff"
                 android:textSize="56sp" />
 
@@ -124,6 +128,10 @@
                 android:layout_marginTop="8dp"
                 android:fontFamily="sans-serif-smallcaps"
                 android:text="0"
+                android:shadowColor="@color/text_shadow"
+                android:shadowDx="1"
+                android:shadowDy="1"
+                android:shadowRadius="10"
                 android:textColor="#ffffff"
                 android:textSize="56sp" />
 
